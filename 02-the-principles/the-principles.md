@@ -8,6 +8,11 @@
   - [Choice VS Chore](#choice-vs-chore)
   - [It's All In The Frame](#its-all-in-the-frame)
   - [Pareto Principle](#pareto-principle)
+  - [Skill Stacking](#skill-stacking)
+  - [Happiness Factors](#happiness-factors)
+  - [Your Productivity Time](#your-productivity-time)
+  - [Self Learning Diagram](#self-learning-diagram)
+  - [Section Review](#section-review)
 
 # The Principles
 
@@ -56,3 +61,25 @@
 - Is it 80% of result are effected by 20% of inputs or causes.
 - Is not necessary 20% that give us the 80% of result, but is eliminating things from 100% to 20%.
 - Think of is that necessary to use all the time to master one topic instead of focus the 20% of core of the topic.
+
+## Skill Stacking 
+- Which this are the curiosity and value of the learning.
+- This is to gathering skills and combining skills in unique ways.
+- Gathering multiple skills and combine it in your unique ways is the most valuable learning skill.
+- This have skills that could work well when combining it together.
+
+## Happiness Factors
+- Emotional will affect when learning, happiness will be one of the factor to learn some topics.
+- Look at our daily life, what is the key that always make you happy, and use that as your motivation to learning.
+
+## Your Productivity Time
+- Some people is morning person and their most productivity time is morning, some is nighthawks where their productivity time is night time.
+- So need to find your own productivity time for learning.
+
+## Self Learning Diagram
+- This is need to know what path you have chosen to be the learner.
+- You need to have the intrinsic motivation to learning some topics.
+
+## Section Review
+- This principle is to shift our perspective and concept of learning.
+- When we are not happy to learn, struggle, or doesn't have the motive to learning, we have refer back all this principle too.
